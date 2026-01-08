@@ -32,7 +32,7 @@ This project was developed and tested directly on a Raspberry Pi.
 
 
 ## 📷 Project Images
-![Robotic Arm](media/demo.jpg)
+![Robotic Arm](media/img.HEIC)
 
 
 ## Future Goal
