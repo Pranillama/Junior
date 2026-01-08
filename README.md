@@ -31,8 +31,8 @@ This project was developed and tested directly on a Raspberry Pi.
 - **Concepts:** Inverse Kinematics, Coordinate Geometry, Control Logic
 
 
-## 🎥 Demo
-Images and a short demo video of the robotic arm in motion are included below.
+## 📷 Project Images
+![Robotic Arm](media/demo.jpg)
 
 
 ## Future Goal
